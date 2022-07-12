@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\SitefinityWebApp.ResourcePackages.Bootstrap5.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\SitefinityWebApp.ResourcePackages.Bootstrap5.pdb
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\SitefinityWebApp.dll.config
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\SitefinityWebApp.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\SitefinityWebApp.pdb
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\WindowsAzureTelemetryEvents.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\EnvDTE.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\WindowsAzureEventSource.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\bin\stdole.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\obj\Debug\SitefinityWebApp.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\obj\Debug\SitefinityWebApp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\obj\Debug\SitefinityWebApp.csproj.CopyComplete
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\obj\Debug\SitefinityWebApp.dll
+C:\Program Files (x86)\Progress\Sitefinity\Projects\ProLearnSSO\obj\Debug\SitefinityWebApp.pdb

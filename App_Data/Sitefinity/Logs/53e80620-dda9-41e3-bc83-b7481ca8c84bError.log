@@ -1,0 +1,56 @@
+----------------------------------------
+ActivityId: 00000000-0000-0000-0000-000000000000
+
+Timestamp: 7/12/2022 5:12:03 PM
+
+Message: HandlingInstanceID: 76121144-b60b-462f-a10c-9a767d937589
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+07/12/2022 22:42:03
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : A potentially dangerous Request.Path value was detected from the client (:).
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Void ValidateInputIfRequiredByConfig()
+HResult : -2147467259
+Stack Trace :    at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+Additional Info:
+
+MachineName : DESKTOP-GFBCVQB
+TimeStamp : 7/12/2022 5:12:03 PM
+FullName : Telerik.Sitefinity.Utilities, Version=14.2.7900.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : /LM/W3SVC/1/ROOT-1-133021138808412939
+ThreadIdentity : 
+WindowsIdentity : DESKTOP-GFBCVQB\ABC
+Requested URL : http://localhost:19302/Sitefinity/adminapp/pages/(dialog:confirm/default)
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: DESKTOP-GFBCVQB
+
+App Domain: /LM/W3SVC/1/ROOT-1-133021138808412939
+
+ProcessId: 18916
+
+Process Name: C:\Program Files (x86)\IIS Express\IISExpress.exe
+
+Thread Name: 
+
+Win32 ThreadId:17788
+
+Extended Properties: 
+----------------------------------------
